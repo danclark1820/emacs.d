@@ -1,0 +1,272 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/danclark/experiments/boardReview/conf/evolutions/" . "default/")
+ ("/Users/danclark/experiments/boardReview/conf/" . "evolutions/")
+ ("/Users/danclark/experiments/boardReview/project/project/" . "target/")
+ ("/Users/danclark/experiments/boardReview/project/" . "project/")
+ ("/Users/danclark/experiments/boardReview/app/" . "controllers/")
+ ("/Users/danclark/experiments/boardReview/" . "test/")
+ ("/Users/danclark/etl/src/main/java/com/quanttus/etl/" . "hadoop/")
+ ("/Users/danclark/etl/src/main/java/com/quanttus/" . "etl/")
+ ("/Users/danclark/etl/src/main/java/com/" . "quanttus/")
+ ("/Users/danclark/etl/src/main/java/" . "com/")
+ ("/Users/danclark/etl/src/main/" . "java/")
+ ("/Users/danclark/etl/src/bin/com/quanttus/etl/" . "assembly/")
+ ("/Users/danclark/etl/src/bin/com/quanttus/" . "etl/")
+ ("/Users/danclark/etl/src/bin/com/" . "quanttus/")
+ ("/Users/danclark/etl/src/bin/" . "com/")
+ ("/Users/danclark/etl/src/" . "main/")
+ ("/Users/danclark/etl/" . "src/")
+ ("/Users/danclark/experiments/scalding/" . "tutorial/")
+ ("/Users/danclark/experiments/" . "boardReview/")
+ ("/Users/danclark/listener/src/test/scala/" . "listener/")
+ ("/Users/danclark/listener/src/test/" . "scala/")
+ ("/Users/danclark/listener/src/main/scala/com/quanttus/" . "listener/")
+ ("/Users/danclark/listener/src/main/scala/com/" . "quanttus/")
+ ("/Users/danclark/listener/src/main/scala/" . "com/")
+ ("/Users/danclark/listener/src/main/" . "resources/")
+ ("/Users/danclark/listener/src/" . "main/")
+ ("/Users/danclark/listener/" . "src/")
+ ("/Users/danclark/api/test/resources/" . "helper/")
+ ("/Users/danclark/api/test/unit/com/quanttus/" . "api/")
+ ("/Users/danclark/api/test/unit/com/" . "quanttus/")
+ ("/Users/danclark/api/test/unit/" . "com/")
+ ("/Users/danclark/api/test/it/com/quanttus/" . "api/")
+ ("/Users/danclark/api/test/it/com/" . "quanttus/")
+ ("/Users/danclark/api/test/it/" . "com/")
+ ("/Users/danclark/api/test/" . "it/")
+ ("/Users/danclark/ops/chef-repo/cookbooks/cassandra-cluster/" . "recipes/")
+ ("/Users/danclark/ops/chef-repo/cookbooks/" . "cassandra-cluster/")
+ ("/Users/danclark/ops/chef-repo/" . "roles/")
+ ("/Users/danclark/ops/" . "bake-ami/")
+ ("/Users/" . "danclark/")
+ ("/" . "Users/")
+ ("/Users/danclark/api/macro/src/main/scala/com/quanttus/" . "macros/")
+ ("/Users/danclark/api/macro/src/main/scala/com/" . "quanttus/")
+ ("/Users/danclark/api/macro/src/main/scala/" . "com/")
+ ("/Users/danclark/api/macro/src/main/" . "scala/")
+ ("/Users/danclark/api/macro/src/" . "main/")
+ ("/Users/danclark/api/macro/" . "src/")
+ ("/Users/danclark/api/app/" . "controllers/")
+ ("/Users/danclark/api/" . "docker/")
+ ("/Users/danclark/" . "experiments/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/danclark/experiments/boardReview/test/"
+ "/Users/danclark/experiments/boardReview/app/controllers/"
+ "/Users/danclark/experiments/boardReview/app/models/"
+ "/Users/danclark/experiments/boardReview/app/views/"
+ "/Users/danclark/api/docker/"
+ "/Users/danclark/experiments/boardReview/conf/evolutions/default/"
+ "/Users/danclark/experiments/boardReview/conf/"
+ "/Users/danclark/experiments/boardReview/"
+ "/Users/danclark/experiments/boardReview/project/"
+ "/Users/danclark/"
+ "/Users/danclark/api/project/"
+ "/Users/danclark/api/conf/"
+ "/Users/danclark/experiments/"
+ "/Users/danclark/etl/src/main/java/com/quanttus/etl/hadoop/"
+ "/Users/danclark/etl/src/bin/com/quanttus/etl/assembly/"
+ "/Users/danclark/experiments/scalding/tutorial/"
+ "/Users/danclark/listener/src/main/resources/"
+ "/Users/danclark/listener/src/main/scala/com/quanttus/listener/"
+ "/Users/danclark/listener/src/test/scala/listener/"
+ "/Users/danclark/listener/"
+ "/Users/danclark/api/app/helper/"
+ "/Users/danclark/api/test/it/"
+ "/Users/danclark/api/test/it/com/quanttus/api/"
+ "/Users/danclark/api/test/unit/com/quanttus/api/"
+ "/Users/danclark/api/app/services/"
+ "/Users/danclark/api/app/controllers/"
+ "/Users/danclark/api/test/unit/global/"
+ "/Users/danclark/api/test/"
+ "/Users/danclark/ops/bake-ami/"
+ "/Users/danclark/ops/chef-repo/cookbooks/cassandra-cluster/recipes/"
+ "/Users/danclark/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "IntegrationSpec.scala"
+ "Application.scala"
+ "Board.scala"
+ "ApplicationSpec.scala"
+ "index.scala.html"
+ "boot.sh"
+ "install.sh"
+ "install-docker.sh"
+ "1.sql"
+ "application.conf"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/danclark/experiments/boardReview/test/" (21677 13337 0 0) "target/" "IntegrationSpec.scala" "ApplicationSpec.scala" ".#ApplicationSpec.scala" "#ApplicationSpec.scala#" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/app/controllers/" (21677 15025 0 0) "Application.scala" ".#Application.scala" "../" "./")
+
+ ("/Users/danclark/.emacs.d/" (21674 40243 0 0) "recentf" "plugins/" "init.el~" "init.el" "ido.last" "elpa/" "Cask~" "Cask" "auto-save-list/" ".git/" ".cask/" "../" "./")
+
+ ("/Users/danclark/api/test/" (21675 1129 0 0) "services/" "resources/" "logback-test.xml" "it/" "helper/" "global/" "controllers/" "com/" "ApplicationTest.java" "../" "./")
+
+ ("/Users/danclark/api/app/controllers/" (21675 1129 0 0) "VitalController.java" "VersionController.scala" "UserController.scala" "TemperatureController.java" "SleepController.java" "QuestionController.java" "QScores.java" "QHystrixStreamController.java" "package.scala" "NotificationController.scala" "NoteController.java" "MedicationController.java" "MealController.scala" "MapController.scala" "LogController.java" "LocationController.scala" "ImageController.java" "DeviceController.java" "BodyMeasureController.scala" "Application.java" "ApiSecurityAction.java" "ActivityController.java" "../" "./")
+
+ ("/Users/danclark/api/app/services/" (21675 1129 0 0) "QServiceInvoker.java" "QServiceFacadeImpl.java" "QServiceFacade.java" "QService.java" "QConcurrencyStrategy.java" "impl/" "HazelcastService.scala" "exceptions/" "annotations/" "../" "./")
+
+ ("/Users/danclark/api/test/it/" (21675 885 0 0) "target/" "../" "./")
+
+ ("/Users/danclark/api/app/helper/" (21675 1129 0 0) "UserHelper.java" "S3Helper.java" "QDateTime.java" "JsonDateSerializer.java" "F.java" "CrcChecker.java" "ControllerHelper.java" "Auth.scala" "Api.java" "../" "./")
+
+ ("/Users/danclark/experiments/scalding/tutorial/" (21674 40243 0 0) "TypedTutorial.scala" "Tutorial6.scala" "Tutorial5.scala" "Tutorial4.scala" "Tutorial3.scala" "Tutorial2.scala" "Tutorial1.scala" "Tutorial0.scala" "ReplTutorial1.scala" "MovieSimilarities.scala" "MatrixTutorial6.scala" "MatrixTutorial5.scala" "MatrixTutorial4.scala" "MatrixTutorial3.scala" "MatrixTutorial2.scala" "MatrixTutorial1.scala" "MatrixTutorial0.scala" "JsonTutorial0.scala" "data/" "CodeSnippets.md" "AvroTutorial0.scala" ".scalding_repl" "#Tutorial4.scala#" "#Tutorial3.scala#" "#MovieSimilarities.scala#" "#MatrixTutorial0.scala#" "../" "./")
+
+ ("/Users/danclark/api/conf/" (21675 1129 0 0) "test.conf" "test-application-context.xml" "routes" "messages" "logger.xml" "local.conf.backup" "local.conf" "db/" "code-formatter.xml" "application.conf" "application-context.xml" ".DS_Store" "../" "./")
+
+ ("/Users/danclark/api/project/" (21675 1129 0 0) "target/" "project/" "plugins.sbt" "Build.scala" "build.properties" ".DS_Store" "../" "./")
+
+ ("/Users/danclark/" (21675 59598 0 0) "VirtualBox VMs/" "target/" "staging-cqlsh" "scripts/" "scalaStuff/" "reactive-stocks/" "qinit/" "qgear_bean/" "QA/" "python-sdk/" "Public/" "portal/" "play-2.2.0/" "Pictures/" "ops/" "Music/" "Movies/" "listener/" "Library/" "java-sdk/" "Google Drive/" "git/" "experiments/" "etl/" "Dropbox (Quanttus)/" "Downloads/" "Documents/" "dev-cqlsh" "Desktop/" "common/" "Applications/" "api/" "any-cqlsh" ".zshrc-e" ".zshrc" ".zsh_profile" ".zsh_history" ".zsh-update" ".zcompdump-Dan’s MacBook Pro-5.0.5" ".zcompdump-Dan’s MacBook Pro-5.0.2" ".Xauthority" ".wireshark-etc/" ".wireshark/" ".vimrc" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".subversion/" ".ssh/" ".scala_history" ".sbt/" ".rnd" ".psql_history" ".pry_history" ".pip/" ".openvpn-connect.json" ".oh-my-zsh/" ".mindterm/" ".m2/" ".lesshst" ".lein/" ".jenkins/" ".ivy2/" ".ipython/" ".Graboid/" ".gitconfig" ".gem/" ".emacs.d/" ".eclipse/" ".DS_Store" ".dropbox/" ".distlib/" ".cups/" ".cocoapods/" ".chef/" ".CFUserTextEncoding" ".cassandra/" ".cache/" ".berkshelf/" ".bashrc" ".bash_profile" ".bash_history" ".bash/" ".atom/" ".ApacheDirectoryStudio/" ".activator/" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/conf/" (21674 40243 0 0) "routes" "evolutions/" "application.conf" "#application.conf#" "../" "./")
+
+ ("/Users/danclark/api/docker/" (21675 57660 0 0) "Vagrantfile" "templates/" "target/" "README.md" "install.sh" "install-docker.sh" "docker-files/" "build-containers.sh" "boot.sh" ".vagrant/" "../" "./")
+
+ ("/Users/danclark/api/" (21675 1129 0 0) "test/" "target/" "sonar-project.properties" "README.md" "public/" "project/" "macro/" "logs/" "docker/" "conf/" "bin/" "application.home_IS_UNDEFINED/" "app/" ".target/" ".settings/" ".project" ".gitignore" ".git/" ".DS_Store" ".classpath" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/" (21674 36907 0 0) "test/" "target/" "README" "public/" "project/" "logs/" "conf/" "build.sbt" "app/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/conf/evolutions/default/" (21674 36907 0 0) "1.sql" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/conf/evolutions/" (21666 44927 0 0) "default/" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/app/models/" (21671 12765 0 0) "Board.scala" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/project/" (21671 12442 0 0) "target/" "project/" "plugins.sbt" "build.properties" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/project/project/target/" (21656 6527 0 0) "config-classes/" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/project/project/" (21656 6527 0 0) "target/" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/app/views/" (21666 44927 0 0) "main.scala.html" "index.scala.html" "../" "./")
+
+ ("/Users/danclark/experiments/boardReview/app/" (21658 52196 0 0) "views/" "models/" "controllers/" "../" "./")
+
+ ("/Users/danclark/experiments/" (21656 11037 0 0) "u1.test" "todolist/" "target/" "scalding/" "movieCount.sh" "mergesort.scala" "boardReview/" "AkkaPi/" "akka/" ".DS_Store" ".#u1.test" "../" "./")
+
+ ("/Users/danclark/api/test/unit/com/quanttus/api/" (21652 30019 0 0) "vital.scala" "user.scala" "temperature.scala" "question.scala" "package.scala" "notification.scala" "nlg.scala" "mobile.scala" "macro.scala" "location.scala" "image.scala" "helper.scala" "group.scala" "activeMin.scala" "../" "./")
+
+ ("/Users/danclark/api/test/it/com/quanttus/api/" (21652 30019 0 0) "vital.scala" "temperature.scala" "question.scala" "pairingtoken.scala" "package.scala" "nlg.scala" "map.scala" "integration.scala" "image.scala" "group.scala" "device.scala" "dao.scala" "calcode.scala" "activity.scala" "activeMinutes.scala" "../" "./")
+
+ ("/Users/danclark/api/app/" (21652 30019 0 0) "views/" "util/" "target/" "services/" "notification/" "models/" "hystrix/" "helper/" "global/" "filters/" "dao/" "controllers/" "../" "./")
+
+ ("/Users/danclark/etl/src/main/java/com/quanttus/etl/hadoop/" (21651 25152 0 0) "WholeFileRecordReader.java" "WholeFileInputFormat.java" "WholeFile.java" "../" "./")
+
+ ("/Users/danclark/etl/src/main/java/com/quanttus/etl/" (21651 25152 0 0) "operation/" "helper/" "hadoop/" "ETLComponentGenerator.java" "domain/" "DataMartFlowMain.java" "constants/" "config/" "assembly/" "../" "./")
+
+ ("/Users/danclark/etl/src/main/java/com/quanttus/" (21437 18936 0 0) "etl/" "../" "./")
+
+ ("/Users/danclark/etl/src/main/java/com/" (21437 18936 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/etl/src/main/java/" (21437 18936 0 0) "com/" "../" "./")
+
+ ("/Users/danclark/etl/src/main/" (21437 18936 0 0) "resources/" "java/" "../" "./")
+
+ ("/Users/danclark/etl/src/bin/com/quanttus/etl/assembly/" (21651 25208 0 0) "VitalsAggregatorSubAssembly.class" "ParserSubAssembly.class" "HourlyStatisticsAggregatorSubAssembly.class" "HeartRateMetricsAggregatorSubAssembly.class" "FileTypeSubAssembly.class" "FileTypeFilterSubAssembly.class" "AverageTimeSplitterSubAssembly.class" "../" "./")
+
+ ("/Users/danclark/etl/src/bin/com/quanttus/etl/" (21443 57128 0 0) "operation/" "HourlyStatisticsTest.class" "helper/" "HeartRateMetricsAggregatorTest.class" "hadoop/" "ETLComponentGeneratorTest.class" "ETLComponentGenerator.class" "domain/" "constants/" "config/" "assembly/" "../" "./")
+
+ ("/Users/danclark/etl/src/bin/com/quanttus/" (21443 57128 0 0) "test/" "etl/" "../" "./")
+
+ ("/Users/danclark/etl/src/bin/com/" (21443 57128 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/etl/src/bin/" (21443 57128 0 0) "com/" "../" "./")
+
+ ("/Users/danclark/etl/src/" (21443 57117 0 0) "test/" "main/" "bin/" ".project" ".classpath" "../" "./")
+
+ ("/Users/danclark/etl/" (21651 25152 0 0) "target/" "src/" "sonar-project.properties" "README.md" "pom.xml" "job.xml" ".project" ".gitignore" ".git/" ".classpath" "../" "./")
+
+ ("/Users/danclark/ops/chef-repo/cookbooks/cassandra-cluster/recipes/" (21633 57243 0 0) "default.rb" "../" "./")
+
+ ("/Users/danclark/ops/bake-ami/" (21633 53450 0 0) "stack.py" "resources/" "README.md" "bake.py" ".#bake.py" "#bake.py#" "../" "./")
+
+ ("/Users/danclark/listener/" (21642 2661 0 0) "target/" "src/" "s3.py" "README.md" "project/" "build.sbt" ".project" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/danclark/listener/src/test/scala/listener/" (21642 65262 0 0) "UnitSpec.scala" "S3WriterSpec.scala" "KafkaReaderSpec.scala" "../" "./")
+
+ ("/Users/danclark/listener/src/main/scala/com/quanttus/listener/" (21642 65262 0 0) "target/" "Stream.scala" "S3Writer.scala" "Listener.scala" "KafkaReader.scala" "KafkaErrorWriter.scala" "Hystrix.scala" "#KafkaReader.scala#" "../" "./")
+
+ ("/Users/danclark/listener/src/main/resources/" (21630 1607 0 0) "logback.xml" "config.properties" "../" "./")
+
+ ("/Users/danclark/experiments/scalding/" (21642 62315 0 0) "version.sbt" "tutorial/" "target/" "scripts/" "scalding-repl/" "scalding-parquet-scrooge/" "scalding-parquet/" "scalding-json/" "scalding-jdbc/" "scalding-hraven/" "scalding-hadoop-test/" "scalding-date/" "scalding-core/" "scalding-commons/" "scalding-avro/" "scalding-args/" "sbt" "README.md" "project/" "NOTICE" "maple/" "logo/" "LICENSE" "CONTRIBUTING.md" "CHANGES.md" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/danclark/listener/src/test/scala/" (21628 59460 0 0) "listener/" "../" "./")
+
+ ("/Users/danclark/listener/src/test/" (21628 59460 0 0) "scala/" "resources/" "../" "./")
+
+ ("/Users/danclark/listener/src/main/scala/com/quanttus/" (21628 59460 0 0) "listener/" "../" "./")
+
+ ("/Users/danclark/listener/src/main/scala/com/" (21628 59460 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/listener/src/main/scala/" (21628 59460 0 0) "com/" "../" "./")
+
+ ("/Users/danclark/listener/src/main/" (21628 59460 0 0) "scripts/" "scala/" "resources/" "../" "./")
+
+ ("/Users/danclark/listener/src/" (21628 59460 0 0) "test/" "main/" "../" "./")
+
+ ("/Users/danclark/api/public/" (21463 54219 0 0) "stylesheets/" "javascripts/" "images/" "hystrix/" "bootstrap/" "../" "./")
+
+ ("/Users/danclark/api/test/resources/helper/" (21619 23475 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/danclark/api/test/resources/" (21573 17322 0 0) "helper/" "../" "./")
+
+ ("/Users/danclark/api/logs/" (21614 28662 0 0) "application.log" "../" "./")
+
+ ("/Users/danclark/api/test/unit/global/" (21619 23475 0 0) "TestGlobal.scala" "../" "./")
+
+ ("/Users/danclark/api/test/unit/com/quanttus/" (21619 23475 0 0) "api/" "../" "./")
+
+ ("/Users/danclark/api/test/unit/com/" (21619 23475 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/api/test/unit/" (21619 23475 0 0) "resources/" "logback-test.xml" "global/" "com/" "../" "./")
+
+ ("/Users/danclark/api/test/it/com/quanttus/" (21619 23475 0 0) "api/" "../" "./")
+
+ ("/Users/danclark/api/test/it/com/" (21619 23475 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/ops/chef-repo/roles/" (21619 19909 0 0) "README.md" "../" "./")
+
+ ("/Users/danclark/ops/chef-repo/cookbooks/cassandra-cluster/" (21619 19909 0 0) "Vagrantfile" "Thorfile" "templates/" "recipes/" "README.md" "metadata.rb" "LICENSE" "Gemfile" "files/" "chefignore" "CHANGELOG.md" "Berksfile" "attributes/" ".kitchen.yml" ".gitignore" "../" "./")
+
+ ("/Users/danclark/ops/chef-repo/cookbooks/" (21619 19909 0 0) "zookeeper/" "yum-epel/" "yum/" "windows/" "turbine/" "threatstack/" "sysctl/" "storm/" "sherlock/" "s3_file/" "runit/" "portal-server/" "play-server/" "ohai/" "ntp/" "modules/" "mesos/" "lxc/" "logstash-server/" "kafka-listener/" "kafka/" "java/" "iptables/" "homebrew/" "hazelcast-management/" "hazelcast/" "golang/" "git/" "elasticsearch-cluster/" "dpkg_autostart/" "docker/" "dmg/" "device-mapper/" "cluster-sniffer/" "cloudwatch/" "chronos/" "chef_handler/" "cassandra-cluster/" "build-essential/" "aufs/" "apt/" "api-server/" "../" "./")
+
+ ("/Users/danclark/ops/chef-repo/" (21619 19909 0 0) "roles/" "README.md" "Rakefile" "LICENSE" "environments/" "data_bags/" "cookbooks/" "config/" "chefignore" "certificates/" ".gitignore" "../" "./")
+
+ ("/Users/danclark/ops/" (21619 19909 0 0) "start-emr.py" "rotatetables/" "restore-cassandra.py" "README.md" "qtool/" "cluster-service/" "cloudformation/" "chef-repo/" "bootstrap-chef.py" "bake-ami/" "algo.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/danclark/api/bin/" (21518 7681 0 0) "../" "./")
+
+ ("/Users/danclark/api/macro/src/main/scala/com/quanttus/macros/" (21619 23475 0 0) "fields.scala" "enum.scala" "../" "./")
+
+ ("/Users/danclark/api/macro/src/main/scala/com/quanttus/" (21527 265 0 0) "macros/" "../" "./")
+
+ ("/Users/danclark/api/macro/src/main/scala/com/" (21527 265 0 0) "quanttus/" "../" "./")
+
+ ("/Users/danclark/api/macro/src/main/scala/" (21527 265 0 0) "com/" "../" "./")
+
+ ("/Users/danclark/api/macro/src/main/" (21528 29794 0 0) "scala/" "resources/" "java/" "../" "./")
+
+ ("/Users/danclark/api/macro/src/" (21527 265 0 0) "main/" "../" "./")
+
+ ("/Users/danclark/api/macro/" (21539 5881 0 0) "target/" "src/" "../" "./")
+
+ ("/Users/" (21574 51802 0 0) "Shared/" "danclark/" ".localized" "../" "./")
+
+ ("/Users/danclark/Library/" (21610 15857 0 0) "WebKit/" "Voices/" "VirtualBox/" "SyncedPreferences/" "StickiesDatabase" "Spelling/" "Sounds/" "Services/" "Screen Savers/" "Saved Application State/" "Safari/" "PubSub/" "Printers/" "Preferences/" "PreferencePanes/" "MobileDevice/" "Mobile Documents/" "Messages/" "Mail/" "Logs/" "LaunchAgents/" "LanguageModeling/" "Keychains/" "Keyboard Layouts/" "iTunes/" "Internet Plug-Ins/" "Input Methods/" "iMovie/" "IdentityServices/" "Group Containers/" "Google/" "GameKit/" "Fonts/" "FontCollections/" "Favorites/" "Dictionaries/" "Developer/" "Cookies/" "Containers/" "Compositions/" "com.apple.nsurlsessiond/" "Colors/" "ColorPickers/" "Calendars/" "Caches/" "Autosave Information/" "Audio/" "Assistants/" "Application Support/" "Accounts/" ".localized" "../" "./")
+
+ ("/Users/danclark/.emacs.d/plugins/" (21615 28333 0 0) "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
